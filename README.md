@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Ayh_FZ0vZmgxRzMXxw9uC&ust=1720067963552000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDVwNKGiocDFQAAAAAdAAAAABAQ"](https://drive.google.com/file/d/16O-t4LBrsSDm4-KhE73djncIvjExdu8h/view?usp=drive_link) alt="Your Image" width="100" height="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Your Image" width="100" height="100" />
 </p>
 
 - 🔭 I’m currently working on **Event managing website**
