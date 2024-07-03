@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rakesh Puli</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Ayh_FZ0vZmgxRzMXxw9uC&ust=1720067963552000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDVwNKGiocDFQAAAAAdAAAAABAQ" alt="Your Image" width="100" height="100" />
-</p>
+- 🔭 I’m currently working on **Event managing website**
 
-<ul>
-  <li>🔭 I’m currently working on <strong>Event managing website</strong></li>
-  <li>🌱 I’m currently learning <strong>Full Stack Development</strong></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/RakeshPuli11?tab=repositories">GitHub Repositories</a></li>
-  <li>💬 Ask me about <strong>Angular, Spring Boot, Express, Web Designing</strong></li>
-  <li>📫 How to reach me: <a href="mailto:pulisairakesh2157@gmail.com">pulisairakesh2157@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1dMyYNtUaFNbT68OlIDmi1ejhemE3ljSe/view?usp=drive_link">Resume</a></li>
-  <li>⚡ Fun fact: <strong>I am one of the strongest Athletes on Earth</strong></li>
-</ul>
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RakeshPuli11?tab=repositories](https://github.com/RakeshPuli11?tab=repositories)
+
+- 💬 Ask me about **Angular, spring boot, express, Web Designing**
+
+- 📫 How to reach me **pulisairakesh2157@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dMyYNtUaFNbT68OlIDmi1ejhemE3ljSe/view?usp=drive_link](https://drive.google.com/file/d/1dMyYNtUaFNbT68OlIDmi1ejhemE3ljSe/view?usp=drive_link)
+
+- ⚡ Fun fact **I am one of the strongest Athletes on Earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
