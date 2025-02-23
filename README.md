@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rakesh Puli</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Application Security Engineer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Your Image" width="500" height="300" />
 </p>
 
-- 🔭 I’m currently working on **Event managing website**
+- 🔭 I’m currently working on **Encryptor**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Application Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakeshPuli11?tab=repositories](https://github.com/RakeshPuli11?tab=repositories)
 
-- 💬 Ask me about **Angular, spring boot, express, Web Designing**
+- 💬 Ask me about **Application Security, Debugging, Penetration Testing**
 
-- 📫 How to reach me **pulisairakesh2157@gmail.com**
+- 📫 How to reach me **sairakesh2157@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dMyYNtUaFNbT68OlIDmi1ejhemE3ljSe/view?usp=drive_link](https://drive.google.com/file/d/1dMyYNtUaFNbT68OlIDmi1ejhemE3ljSe/view?usp=drive_link)
 
